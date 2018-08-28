@@ -1,4 +1,4 @@
 my-wildfly-app
 ====================
-A wildfly app to be deployed on openshift environments
+A wildfly app to be deployed for Java EE Web Services.
 
